@@ -33,7 +33,7 @@ I made some changes in originally i3blocks scripts e.g. display a process with t
 	mv .Xresources ~
 	mv .xinitrc ~
 
-##Others
+## Others
 
 Fonts: Noto Sans, [System San Fransisco Display](https://github.com/supermarin/YosemiteSanFranciscoFont)
 
@@ -41,9 +41,9 @@ Wallpaper: [Dune](https://i.imgur.com/bBqqxe4.jpg) by unknown author*
 
 Lock-screen: [City](https://i.imgur.com/VqbHFbL.jpg) by unknown author*
 
-* - I couldn't find informations about authors, send me a messgae if you know.
+\* - I couldn't find informations about authors, send me a messgae if you know.
 
-##Screenshots
+## Screenshots
 
 ![Screenshots](https://i.imgur.com/j5ago1z.png)
 
