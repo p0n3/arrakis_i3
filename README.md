@@ -1,4 +1,4 @@
-# Dune-Arrakis i3 style
+# Arrakis i3 style
 
 I just finished Dune and loved it. I thought it would be great to have a Dune-related theme on my laptop. I couldn't find any, so I decided to create one. Here you can find my configuration for [i3wm](https://i3wm.org/). 
 
